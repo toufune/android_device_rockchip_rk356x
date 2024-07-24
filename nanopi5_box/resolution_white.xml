@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resolutions>
+
+    <!-- white list disabled, See mode_verify() in
+         hardware/rockchip/hwcomposer/drmhwc/drmresources.cpp
+         hardware/rockchip/hwcomposer/drmhwc2/drm/drmdevice.cpp
+         -->
+
+</resolutions>
